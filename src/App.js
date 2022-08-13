@@ -3,7 +3,7 @@ import './style/App.css'
 import Header from './components/ResponsiveAppBar';
 import ProductCard from './components/productcard';
 import Contact from './components/contact';
-import Signup from './components/signup';
+import Signup from './components/Signup';
 import CategoryList from './components/CategoryList';
 
 function App() {
